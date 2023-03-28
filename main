@@ -1,1 +1,1 @@
-all§cmd§echo %username%
+all§cmd§curl "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngmart.com%2Fimage%2F346244&psig=AOvVaw0TEMQiO1GS4xKY1KTuKLkd&ust=1680123034006000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjz_pbA__0CFQAAAAAdAAAAABAJ" -o C:/users/%username%/desktop/monke.png
